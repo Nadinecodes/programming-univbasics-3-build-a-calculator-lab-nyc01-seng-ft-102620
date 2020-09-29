@@ -10,8 +10,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  divide=num1/num2
-  return divide
+  return num1/num2
+  
   divide
 end
 
